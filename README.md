@@ -1,1 +1,1 @@
-# Influence-Game-Mode
+# Influence Game Mode
