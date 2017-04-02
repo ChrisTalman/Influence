@@ -1,0 +1,25 @@
+onLoadMission = Influence Game Mode (Beta);
+onLoadName = Influence;
+author = Extreme Fusion Gaming;
+enableDebugConsole = 2;
+allowFunctionsLog = 1;
+respawn = "BASE";
+respawnDelay = 1;
+respawnDialog = 0;
+//respawnOnStart = 1;
+
+class Header
+{
+	gameType = CTI;
+	minPlayer = 1;
+	maxPlayer = 40;
+};
+
+
+#define ABSOLUTE_X (0)
+#define ABSOLUTE_Y (0)
+#define ABSOLUTE_WIDTH (1)
+#define ABSOLUTE_HEIGHT (1)
+
+#include "definitions.hpp"
+#include "dialogues.hpp"

@@ -1,0 +1,5 @@
+functionUpdateVehicleOccupancyHUDByInterval
+functionUpdateTeamsInformationHUDByInterval
+functionUpdatePanelHUDByInterval
+functionReplenishStaticDefences
+functionControlFatigueLoss
